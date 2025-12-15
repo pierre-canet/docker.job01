@@ -8,3 +8,4 @@
 ![alt text](docker_run.png)
 ![alt text](docker_stop.png)
 ![alt text](docker_pull.png)
+![alt text](recuperation_image.png)
