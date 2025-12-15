@@ -13,3 +13,4 @@
 ![alt text](docker_info_apres_docker_run_3.png)
 ![alt text](docker_info_apres_docker_run_1.png)
 ![alt text](docker_info_apres_docker_run_2.png)
+![alt text](docker_image_apres_docker_run.png)
