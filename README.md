@@ -9,3 +9,4 @@
 ![alt text](docker_stop.png)
 ![alt text](docker_pull.png)
 ![alt text](recuperation_image.png)
+![alt text](lancement_docker.png)
