@@ -6,3 +6,4 @@
 ![alt text](docker_ps.png)
 ![alt text](docker_images.png)
 ![alt text](docker_run.png)
+![alt text](docker_stop.png)
