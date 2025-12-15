@@ -1,1 +1,5 @@
-![alt text](image.png)
+![alt text](docker_--version.png)
+![alt text](docker_info1.png)
+![alt text](docker_info2.png)
+![alt text](docker_info3.png)
+![alt text](docker_info4.png)
