@@ -10,3 +10,6 @@
 ![alt text](docker_pull.png)
 ![alt text](recuperation_image.png)
 ![alt text](lancement_docker.png)
+![alt text](docker_info_apres_docker_run_3.png)
+![alt text](docker_info_apres_docker_run_1.png)
+![alt text](docker_info_apres_docker_run_2.png)
