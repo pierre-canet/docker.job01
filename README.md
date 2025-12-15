@@ -4,3 +4,4 @@
 ![alt text](docker_info3.png)
 ![alt text](docker_info4.png)
 ![alt text](docker_ps.png)
+![alt text](docker_images.png)
