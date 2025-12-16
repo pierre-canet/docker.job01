@@ -16,3 +16,4 @@
 ![alt text](docker_image_apres_docker_run.png)
 ![alt text](docker_images_apres_docker_run.png)
 ![alt text](nouveau_docker_run.png)
+![alt text](docker_container_stop.png)
